@@ -1,0 +1,14 @@
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\bin\Debug\netcoreapp2.2\CretaceousPark.deps.json
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\bin\Debug\netcoreapp2.2\CretaceousPark.runtimeconfig.json
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\bin\Debug\netcoreapp2.2\CretaceousPark.runtimeconfig.dev.json
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\bin\Debug\netcoreapp2.2\CretaceousPark.dll
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\bin\Debug\netcoreapp2.2\CretaceousPark.pdb
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.csprojAssemblyReference.cache
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.csproj.CoreCompileInputs.cache
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.RazorAssemblyInfo.cache
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.RazorAssemblyInfo.cs
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.AssemblyInfoInputs.cache
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.AssemblyInfo.cs
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.RazorTargetAssemblyInfo.cache
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.dll
+C:\Users\Chelsea\Desktop\CretaceousPark.Solution\CretaceousPark\obj\Debug\netcoreapp2.2\CretaceousPark.pdb
